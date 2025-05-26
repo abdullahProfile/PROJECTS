@@ -1,8 +1,6 @@
 <h2>From Basic to Advance:</h2>
 
-<table border="2" style="width: 100%; border-collapse: collapse;">
-<div>
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse; margin-inline:auto">
   <thead>
     <tr style="background-color: #f2f2f2;">
       <th style="padding: 12px; text-align: left; border: 1px solid #ddd;">Index</th>
@@ -170,4 +168,3 @@
     </tr>
   </tbody>
 </table>
-</div>
