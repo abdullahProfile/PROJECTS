@@ -1,6 +1,6 @@
 <h2>From Basic to Advance:</h2>
 
-<table border="2" sytle="width:100%">
+<table border="2" style="width: 100%; border-collapse: collapse;>
   <thead>
     <tr>
       <th>Index</th>
