@@ -1,6 +1,6 @@
 <h2>From Basic to Advance:</h2>
 
-<table border="1">
+<table>
   <thead>
     <tr>
       <th>Index</th>
