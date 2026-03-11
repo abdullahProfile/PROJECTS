@@ -126,7 +126,7 @@
     </tr>
     <tr>
       <td>20</td>
-      <td>E-commerce-UI</td>
+      <td>Bandage</td>
       <td><a href="https://github.com/abdullahProfile/E-commerce-UI">GitHub</a></td>
       <td><a href="https://ecommercelp.netlify.app">Live</a></td>
     </tr>
