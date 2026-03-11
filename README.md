@@ -120,14 +120,14 @@
     </tr>
     <tr>
       <td>19</td>
-      <td>E-commerce_Website</td>
-      <td><a href="https://github.com/abdullahProfile/E-commerce_Website">GitHub</a></td>
+      <td>FASCO</td>
+      <td><a href="https://github.com/abdullahProfile/FASCO">GitHub</a></td>
       <td><a href="https://ecommercewebsitelp.netlify.app">Live</a></td>
     </tr>
     <tr>
       <td>20</td>
       <td>Bandage</td>
-      <td><a href="https://github.com/abdullahProfile/E-commerce-UI">GitHub</a></td>
+      <td><a href="https://github.com/abdullahProfile/Bandage">GitHub</a></td>
       <td><a href="https://ecommercelp.netlify.app">Live</a></td>
     </tr>
     <tr>
