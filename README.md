@@ -30,8 +30,8 @@
     </tr>
     <tr>
       <td>4</td>
-      <td>furniro store</td>
-      <td><a href="https://github.com/abdullahProfile/WebProject">GitHub</a></td>
+      <td>Furniro</td>
+      <td><a href="https://github.com/abdullahProfile/Furniro">GitHub</a></td>
       <td><a href="https://furnirostore.netlify.app">Live</a></td>
     </tr>
     <tr>
