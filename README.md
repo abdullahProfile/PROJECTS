@@ -36,8 +36,8 @@
     </tr>
     <tr>
       <td>5</td>
-      <td>Website for Education</td>
-      <td><a href="https://github.com/abdullahProfile/EducationPage">GitHub</a></td>
+      <td>Educare</td>
+      <td><a href="https://github.com/abdullahProfile/Educare">GitHub</a></td>
       <td><a href="https://educationlp.netlify.app">Live</a></td>
     </tr>
     <tr>
